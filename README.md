@@ -1,3 +1,13 @@
+# My Changes
+
+```
+torch, librosa version
+torchaudio added
+dockerfile
+check infer in .vscode/launch.json
+```
+
+
 # VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 
 ### Jaehyeon Kim, Jungil Kong, and Juhee Son

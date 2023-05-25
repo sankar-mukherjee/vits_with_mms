@@ -2,5 +2,4 @@
 wget https://dl.fbaipublicfiles.com/mms/tts/ben.tar.gz 
 tar –xvzf ben.tar.gz
 
-python infer.py --model-dir pretrained_models/hin/G_100000.pth \
---wav output/hindi.wav --txt "ऐसी कोई फ़ाइल या निर्देशिका नहीं: यदि आप रनटाइम को पुनरारंभ करते हैं"
+python infer.py --model-dir pretrained_models/hin --wav output/hindi.wav --txt "ऐसी कोई फ़ाइल या निर्देशिका नहीं: यदि आप रनटाइम को पुनरारंभ करते हैं"
