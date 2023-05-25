@@ -1,0 +1,33 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "infer",
+            "type": "python",
+            "request": "launch",
+            "program": "infer.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args":[
+                // "--model-dir=pretrained_models/hin",
+                // "--wav=output/hindi.wav",
+                // "--txt=ऐसी कोई फ़ाइल या निर्देशिका नहीं: यदि आप रनटाइम को पुनरारंभ करते हैं",
+
+                "--model-dir=pretrained_models/ben",
+                "--wav=output/ben.wav",
+                "--txt=আমি যামিনী তুমি শশী হে, ভাতিছ গগন মাঝে।। মম সরসীতে তব উজল প্রভা বিম্বিত যেন লাজে।।",
+              ]
+        },
+    ]
+}
