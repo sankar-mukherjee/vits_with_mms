@@ -1,395 +1,395 @@
-data/LJSpeech-1.1/wavs/LJ001-0002.wav|in being comparatively modern.
-data/LJSpeech-1.1/wavs/LJ001-0008.wav|has never been surpassed.
-data/LJSpeech-1.1/wavs/LJ001-0013.wav|than in the same operations with ugly ones.
-data/LJSpeech-1.1/wavs/LJ001-0054.wav|Jenson, however, had many contemporaries who used beautiful type,
-data/LJSpeech-1.1/wavs/LJ001-0078.wav|to improve the letter in form.
-data/LJSpeech-1.1/wavs/LJ001-0090.wav|With this change the art of printing touched bottom,
-data/LJSpeech-1.1/wavs/LJ001-0104.wav|Italy is contentedly stagnant.
-data/LJSpeech-1.1/wavs/LJ001-0125.wav|this is the narrowing of the modern letters.
-data/LJSpeech-1.1/wavs/LJ001-0126.wav|Most of Jenson's letters are designed within a square,
-data/LJSpeech-1.1/wavs/LJ001-0129.wav|the lateral compression of his letters renders necessary.
-data/LJSpeech-1.1/wavs/LJ001-0165.wav|One fruitful source of badness in paper
-data/LJSpeech-1.1/wavs/LJ001-0170.wav|being thin, tough, and opaque.
-data/LJSpeech-1.1/wavs/LJ001-0179.wav|even when the woodcuts are very rude indeed,
-data/LJSpeech-1.1/wavs/LJ001-0185.wav|printed books might once again illustrate to the full
-data/LJSpeech-1.1/wavs/LJ002-0002.wav|Under the conditions referred to in the previous chapter,
-data/LJSpeech-1.1/wavs/LJ002-0005.wav|The prison population fluctuated a great deal,
-data/LJSpeech-1.1/wavs/LJ002-0007.wav|Neild gives some figures which well illustrate this.
-data/LJSpeech-1.1/wavs/LJ002-0009.wav|On the 27th April, in the following year,
-data/LJSpeech-1.1/wavs/LJ002-0012.wav|After that they fell as steadily,
-data/LJSpeech-1.1/wavs/LJ002-0023.wav|On the female side matters were much worse;
-data/LJSpeech-1.1/wavs/LJ002-0026.wav|in the three years between 1813 and 1816,
-data/LJSpeech-1.1/wavs/LJ002-0029.wav|as it was occupied and appropriated in 1810.
-data/LJSpeech-1.1/wavs/LJ002-0032.wav|These were: 1. The male debtors' side.
-data/LJSpeech-1.1/wavs/LJ002-0035.wav|8. The press yard.
-data/LJSpeech-1.1/wavs/LJ002-0044.wav|the whole about fifteen feet wide.
-data/LJSpeech-1.1/wavs/LJ002-0065.wav|or female convicts ordered for execution.
-data/LJSpeech-1.1/wavs/LJ002-0069.wav|to the various wards their friends occupied.
-data/LJSpeech-1.1/wavs/LJ002-0076.wav|The state side contained twelve good-sized rooms,
-data/LJSpeech-1.1/wavs/LJ002-0083.wav|The ground floor cells were nine feet by six;
-data/LJSpeech-1.1/wavs/LJ002-0114.wav|and imprisonment for debt has almost entirely disappeared.
-data/LJSpeech-1.1/wavs/LJ002-0116.wav|The number of processes against debtors annually was extraordinary.
-data/LJSpeech-1.1/wavs/LJ002-0119.wav|In that period upwards of 200,000 writs
-data/LJSpeech-1.1/wavs/LJ002-0125.wav|Neild also says that in 1793,
-data/LJSpeech-1.1/wavs/LJ002-0129.wav|would have amounted to £68,728, and if defended,
-data/LJSpeech-1.1/wavs/LJ002-0131.wav|three times the amount would be expended.
-data/LJSpeech-1.1/wavs/LJ002-0136.wav|and the disuse of the inferior courts.
-data/LJSpeech-1.1/wavs/LJ002-0139.wav|under 40 shillings arising within the city.
-data/LJSpeech-1.1/wavs/LJ002-0142.wav|These courts were open to many and grave objections.
-data/LJSpeech-1.1/wavs/LJ002-0151.wav|Neild found at his visit to Newgate in 1810,
-data/LJSpeech-1.1/wavs/LJ002-0153.wav|weighted by treble the amount of costs.
-data/LJSpeech-1.1/wavs/LJ002-0155.wav|for which the costs were 6 shillings 10 pence.
-data/LJSpeech-1.1/wavs/LJ002-0191.wav|Besides those actually resident within the walls,
-data/LJSpeech-1.1/wavs/LJ002-0198.wav|The office of marshal had been hereditary,
-data/LJSpeech-1.1/wavs/LJ002-0208.wav|into holes marked with numbers.
-data/LJSpeech-1.1/wavs/LJ002-0213.wav|The Fleet, which stood in Farringdon Street,
-data/LJSpeech-1.1/wavs/LJ002-0216.wav|The shameful malpractices of Bambridge,
-data/LJSpeech-1.1/wavs/LJ002-0234.wav|In the yard behind the prison
-data/LJSpeech-1.1/wavs/LJ002-0236.wav|Matters were rather better at the Marshalsea.
-data/LJSpeech-1.1/wavs/LJ002-0239.wav|also for prisoners committed by the Admiralty Court.
-data/LJSpeech-1.1/wavs/LJ002-0250.wav|Their conduct too was orderly on the whole.
-data/LJSpeech-1.1/wavs/LJ002-0252.wav|The inmates, who euphemistically styled themselves "collegians,"
-data/LJSpeech-1.1/wavs/LJ002-0281.wav|The demands for fees were excessive in Giltspur Street.
-data/LJSpeech-1.1/wavs/LJ002-0287.wav|There were no beds or bedding, no straw even.
-data/LJSpeech-1.1/wavs/LJ002-0298.wav|in his evidence in 1814, said it was more,
-data/LJSpeech-1.1/wavs/LJ002-0311.wav|These were lumped together into a general fund,
-data/LJSpeech-1.1/wavs/LJ002-0332.wav|Sometimes rugs were urgently required and not forthcoming;
-data/LJSpeech-1.1/wavs/LJ003-0004.wav|No remonstrance was attended to,
-data/LJSpeech-1.1/wavs/LJ003-0017.wav|Order throughout the debtors' side was preserved
-data/LJSpeech-1.1/wavs/LJ003-0022.wav|This steward was practically supreme.
-data/LJSpeech-1.1/wavs/LJ003-0028.wav|and no doubt made the meat also pay toll.
-data/LJSpeech-1.1/wavs/LJ003-0050.wav|(1) those awaiting trial;
-data/LJSpeech-1.1/wavs/LJ003-0061.wav|No beds were issued, only two rugs per prisoner.
-data/LJSpeech-1.1/wavs/LJ003-0067.wav|in the then existing state of the law,
-data/LJSpeech-1.1/wavs/LJ003-0104.wav|Having been committed to Clerkenwell,
-data/LJSpeech-1.1/wavs/LJ003-0113.wav|A prisoner, generally the oldest and most dexterous thief,
-data/LJSpeech-1.1/wavs/LJ003-0123.wav|The most trifling acts were magnified into offenses.
-data/LJSpeech-1.1/wavs/LJ003-0129.wav|a taste for spirits. End quote.
-data/LJSpeech-1.1/wavs/LJ003-0164.wav|or the daring reporter of parliamentary debates.
-data/LJSpeech-1.1/wavs/LJ003-0197.wav|This procrastination bred certain callousness.
-data/LJSpeech-1.1/wavs/LJ003-0200.wav|Visitors were permitted access to them without stint;
-data/LJSpeech-1.1/wavs/LJ003-0220.wav|quote, so discreditable to the metropolis, end quote.
-data/LJSpeech-1.1/wavs/LJ003-0225.wav|were meager or altogether absent.
-data/LJSpeech-1.1/wavs/LJ003-0228.wav|and the general insufficiency was such
-data/LJSpeech-1.1/wavs/LJ003-0259.wav|and attracted attention by their disorderly behavior.
-data/LJSpeech-1.1/wavs/LJ003-0281.wav|and the danger of losing material, raw or manufactured.
-data/LJSpeech-1.1/wavs/LJ003-0284.wav|that when they were not carousing, plotting, or scheming,
-data/LJSpeech-1.1/wavs/LJ003-0287.wav|to undertake some kind of reform.
-data/LJSpeech-1.1/wavs/LJ003-0289.wav|Upon the 29th July the same year,
-data/LJSpeech-1.1/wavs/LJ003-0297.wav|It admitted the paramount necessity
-data/LJSpeech-1.1/wavs/LJ003-0320.wav|which recommended restrictions upon the number of visitors admitted.
-data/LJSpeech-1.1/wavs/LJ003-0339.wav|could possibly afford.
-data/LJSpeech-1.1/wavs/LJ004-0008.wav|Mr. Neild, a second Howard,
-data/LJSpeech-1.1/wavs/LJ004-0010.wav|with a few bright exceptions, still deplorable and disgraceful.
-data/LJSpeech-1.1/wavs/LJ004-0012.wav|was in several places merely temporary:
-data/LJSpeech-1.1/wavs/LJ004-0034.wav|Moreover, the laws applied more particularly to county jurisdictions.
-data/LJSpeech-1.1/wavs/LJ004-0040.wav|They felt that private enterprise might
-data/LJSpeech-1.1/wavs/LJ004-0042.wav|The association was organized under the most promising auspices.
-data/LJSpeech-1.1/wavs/LJ004-0052.wav|which Howard had eulogized some forty years before.
-data/LJSpeech-1.1/wavs/LJ004-0054.wav|In order to give greater value to the pamphlet,
-data/LJSpeech-1.1/wavs/LJ004-0068.wav|or amidst the noxious effluvia of dirt and corruption.
-data/LJSpeech-1.1/wavs/LJ004-0099.wav|Ventilators, hand and others, were to be supplied.
-data/LJSpeech-1.1/wavs/LJ004-0101.wav|Warm and cold baths, or "commodious bathing tubs,"
-data/LJSpeech-1.1/wavs/LJ004-0104.wav|By the 31 George III. c. 46, s. 5,
-data/LJSpeech-1.1/wavs/LJ004-0109.wav|according to their categories or crimes.
-data/LJSpeech-1.1/wavs/LJ004-0114.wav|King's evidences were also to be lodged apart.
-data/LJSpeech-1.1/wavs/LJ004-0123.wav|sixty-eight had only two divisions, and so on.
-data/LJSpeech-1.1/wavs/LJ004-0126.wav|The want of room was still a crying evil.
-data/LJSpeech-1.1/wavs/LJ004-0127.wav|In one hundred jails,
-data/LJSpeech-1.1/wavs/LJ004-0132.wav|the old evils of indiscriminate association still continued unchecked.
-data/LJSpeech-1.1/wavs/LJ004-0137.wav|and that it was accomplished by "sleeping edgewise."
-data/LJSpeech-1.1/wavs/LJ004-0143.wav|so that the culprit, in addition to his sentence,
-data/LJSpeech-1.1/wavs/LJ004-0151.wav|They were far worse at Bristol,
-data/LJSpeech-1.1/wavs/LJ004-0160.wav|the uproar of oaths, complaints, and obscenity,
-data/LJSpeech-1.1/wavs/LJ004-0175.wav|In this prison there was no female infirmary.
-data/LJSpeech-1.1/wavs/LJ004-0194.wav|No irons were worn except as a punishment.
-data/LJSpeech-1.1/wavs/LJ004-0205.wav|Industrial labor had also been introduced with satisfactory results.
-data/LJSpeech-1.1/wavs/LJ004-0206.wav|Blanket weaving and cloth spinning was carried on prosperously,
-data/LJSpeech-1.1/wavs/LJ004-0208.wav|There were work-rooms for wool-washing, dyeing, carding, and spinning.
-data/LJSpeech-1.1/wavs/LJ004-0221.wav|The food was properly prepared in the prison kitchen.
-data/LJSpeech-1.1/wavs/LJ004-0241.wav|Other cases of moral deterioration have already been recorded.
-data/LJSpeech-1.1/wavs/LJ005-0034.wav|Undeterred by these sarcasms and misrepresentations,
-data/LJSpeech-1.1/wavs/LJ005-0037.wav|It sought to obtain and diffuse useful information
-data/LJSpeech-1.1/wavs/LJ005-0045.wav|Nor did it confine itself to mere verbal recommendations.
-data/LJSpeech-1.1/wavs/LJ005-0053.wav|A very valuable volume published by the Society
-data/LJSpeech-1.1/wavs/LJ005-0057.wav|was introduced as early as 1790 by Mr. Blackburn
-data/LJSpeech-1.1/wavs/LJ005-0074.wav|cap. 64, and 5 George IV. cap. 85
-data/LJSpeech-1.1/wavs/LJ005-0104.wav|The progress of improvement was certainly extremely slow.
-data/LJSpeech-1.1/wavs/LJ005-0119.wav|No attempt was made to maintain discipline.
-data/LJSpeech-1.1/wavs/LJ005-0121.wav|By degrees, however,
-data/LJSpeech-1.1/wavs/LJ005-0132.wav|Only a few glaring evils still demanded a remedy.
-data/LJSpeech-1.1/wavs/LJ005-0137.wav|Four years later the Prison Society reported
-data/LJSpeech-1.1/wavs/LJ005-0139.wav|making an average of nineteen persons occupying each room.
-data/LJSpeech-1.1/wavs/LJ005-0142.wav|occupying barely 390 feet lineal
-data/LJSpeech-1.1/wavs/LJ005-0154.wav|The rations varied considerably everywhere.
-data/LJSpeech-1.1/wavs/LJ005-0156.wav|in others meat, soup, gruel, beer were given.
-data/LJSpeech-1.1/wavs/LJ005-0172.wav|When that time arrives
-data/LJSpeech-1.1/wavs/LJ005-0190.wav|the knowledge and practice of every species of criminality.
-data/LJSpeech-1.1/wavs/LJ005-0195.wav|There was no decency whatever in the internal arrangements;
-data/LJSpeech-1.1/wavs/LJ005-0207.wav|Kidderminster had a prison, one damp chill room,
-data/LJSpeech-1.1/wavs/LJ005-0210.wav|At Walsall, in Staffordshire,
-data/LJSpeech-1.1/wavs/LJ005-0218.wav|The chapel still continued incommodious and insufficient
-data/LJSpeech-1.1/wavs/LJ005-0231.wav|The city justices had not fulfilled this obligation.
-data/LJSpeech-1.1/wavs/LJ005-0247.wav|Mr. Samuel Hoare was examined by this committee
-data/LJSpeech-1.1/wavs/LJ005-0261.wav|As a means of securing this uniformity,
-data/LJSpeech-1.1/wavs/LJ005-0276.wav|and for securing a proper system of prison discipline.
-data/LJSpeech-1.1/wavs/LJ005-0279.wav|an incomplete and fallacious method of preventing contamination.
-data/LJSpeech-1.1/wavs/LJ005-0280.wav|The Lords' Committee fully recognized the painful fact
-data/LJSpeech-1.1/wavs/LJ005-0282.wav|"the comparatively innocent are seduced, the unwary are entrapped,
-data/LJSpeech-1.1/wavs/LJ005-0284.wav|of more depraved and systematic criminals.
-data/LJSpeech-1.1/wavs/LJ005-0288.wav|when speaking more particularly of the borough jails.
-data/LJSpeech-1.1/wavs/LJ005-0297.wav|They therefore recommended that the prisoners should be removed
-data/LJSpeech-1.1/wavs/LJ006-0009.wav|backed up by the evidence of several influential witnesses.
-data/LJSpeech-1.1/wavs/LJ006-0016.wav|These considerations no doubt had weight
-data/LJSpeech-1.1/wavs/LJ006-0031.wav|that punishment must be reformatory as well as deterrent.
-data/LJSpeech-1.1/wavs/LJ006-0041.wav|Changes introduced under pressure had been only skin deep.
-data/LJSpeech-1.1/wavs/LJ006-0061.wav|and "the greatest contempt shown for the law."
-data/LJSpeech-1.1/wavs/LJ006-0066.wav|In the middle yard it was still worse.
-data/LJSpeech-1.1/wavs/LJ006-0081.wav|The wardsman still exacted dues, of which more directly,
-data/LJSpeech-1.1/wavs/LJ006-0083.wav|"So great is the authority exercised by him,
-data/LJSpeech-1.1/wavs/LJ006-0103.wav|The allowance of food was not illiberal,
-data/LJSpeech-1.1/wavs/LJ006-0132.wav|All the wardsmen alike were more or less irresponsible.
-data/LJSpeech-1.1/wavs/LJ006-0141.wav|The female wards-women were also given to intemperance.
-data/LJSpeech-1.1/wavs/LJ006-0143.wav|There was no penalty attached to drunkenness.
-data/LJSpeech-1.1/wavs/LJ006-0145.wav|He could indulge in snuff if a snuff-taker,
-data/LJSpeech-1.1/wavs/LJ006-0147.wav|it was still freely introduced into the prison.
-data/LJSpeech-1.1/wavs/LJ006-0150.wav|and then only went round to count the number.
-data/LJSpeech-1.1/wavs/LJ006-0166.wav|dice, dangerous implements, or other prohibited articles.
-data/LJSpeech-1.1/wavs/LJ006-0168.wav|to taking the descriptions of newly-arrived prisoners.
-data/LJSpeech-1.1/wavs/LJ006-0175.wav|In his administration of discipline he was quite uncertain;
-data/LJSpeech-1.1/wavs/LJ006-0176.wav|the punishments he inflicted were unequal,
-data/LJSpeech-1.1/wavs/LJ006-0182.wav|Under the reckless contempt for regulations,
-data/LJSpeech-1.1/wavs/LJ006-0202.wav|The news-vendor was also a tobacconist,
-data/LJSpeech-1.1/wavs/LJ006-0220.wav|Feasting alternated with fighting.
-data/LJSpeech-1.1/wavs/LJ006-0225.wav|If any man presumed to turn in too early
-data/LJSpeech-1.1/wavs/LJ006-0227.wav|or his bedclothes were drawn away across the room.
-data/LJSpeech-1.1/wavs/LJ006-0229.wav|which they dropped smoldering into their fellow-prisoners' pockets.
-data/LJSpeech-1.1/wavs/LJ006-0240.wav|Watkins' knee-joint is very severely injured.
-data/LJSpeech-1.1/wavs/LJ006-0257.wav|hot meat, poultry, and fish were also forbidden.
-data/LJSpeech-1.1/wavs/LJ006-0278.wav|A female prisoner kept the registers.
-data/LJSpeech-1.1/wavs/LJ006-0281.wav|in some yards
-data/LJSpeech-1.1/wavs/LJ006-0291.wav|to clean the governor's office in the male prison;
-data/LJSpeech-1.1/wavs/LJ007-0006.wav|They had introduced "much order and cleanliness,"
-data/LJSpeech-1.1/wavs/LJ007-0008.wav|their especial care.
-data/LJSpeech-1.1/wavs/LJ007-0009.wav|They had tried, moreover,
-data/LJSpeech-1.1/wavs/LJ007-0015.wav|it had the bad effect of distracting attention,
-data/LJSpeech-1.1/wavs/LJ007-0033.wav|All privacy was impossible under the circumstances.
-data/LJSpeech-1.1/wavs/LJ007-0048.wav|so subversive of meditation, so disturbing to the thoughts;
-data/LJSpeech-1.1/wavs/LJ007-0071.wav|in the face of impediments confessedly discouraging
-data/LJSpeech-1.1/wavs/LJ007-0081.wav|whose proper place was the asylum.
-data/LJSpeech-1.1/wavs/LJ007-0086.wav|at Buckingham and Hereford for eleven years
-data/LJSpeech-1.1/wavs/LJ007-0088.wav|for not less a period than twenty-four years.
-data/LJSpeech-1.1/wavs/LJ007-0103.wav|Mr. J. E. Sparrow and Mr. Clipperton
-data/LJSpeech-1.1/wavs/LJ007-0105.wav|counsel for the two M.P.'s, was also concerned.
-data/LJSpeech-1.1/wavs/LJ007-0130.wav|are all huddled together without discrimination, oversight, or control."
-data/LJSpeech-1.1/wavs/LJ007-0149.wav|the jail, and the scaffold.
-data/LJSpeech-1.1/wavs/LJ007-0169.wav|this picture of the existing state of Newgate
-data/LJSpeech-1.1/wavs/LJ007-0171.wav|distinguished as the seat of religion, worth, and philanthropy,
-data/LJSpeech-1.1/wavs/LJ007-0188.wav|the misemployment of officers and prisoners by the governor.
-data/LJSpeech-1.1/wavs/LJ007-0191.wav|has been productive of at least some advantage,
-data/LJSpeech-1.1/wavs/LJ007-0193.wav|The measures of improvement introduced were mainly as follows:
-data/LJSpeech-1.1/wavs/LJ007-0196.wav|the provision of dining-rooms and dining-tables.
-data/LJSpeech-1.1/wavs/LJ007-0203.wav|"The mischief of jail associations," say the inspectors,
-data/LJSpeech-1.1/wavs/LJ007-0208.wav|In the inspectors' fourth report, dated 1839,
-data/LJSpeech-1.1/wavs/LJ007-0213.wav|Again the following year the inspectors repeat their charge.
-data/LJSpeech-1.1/wavs/LJ007-0217.wav|They go on to say
-data/LJSpeech-1.1/wavs/LJ007-0228.wav|In their tenth report
-data/LJSpeech-1.1/wavs/LJ007-0230.wav|Newgate, Giltspur St. Compter, and the City Bridewell,
-data/LJSpeech-1.1/wavs/LJ008-0009.wav|But the Old Bailey was not exclusively used;
-data/LJSpeech-1.1/wavs/LJ008-0013.wav|As regards the first, I find that in 1786
-data/LJSpeech-1.1/wavs/LJ008-0022.wav|On the 18th December, 1812,
-data/LJSpeech-1.1/wavs/LJ008-0024.wav|of the trading vessel 'Adventure,' upon the high seas.
-data/LJSpeech-1.1/wavs/LJ008-0033.wav|Ten were executed
-data/LJSpeech-1.1/wavs/LJ008-0062.wav|and this floor is supported below,
-data/LJSpeech-1.1/wavs/LJ008-0069.wav|The latter is the method still followed at Newgate.
-data/LJSpeech-1.1/wavs/LJ008-0073.wav|One case is preserved by Catnach,
-data/LJSpeech-1.1/wavs/LJ008-0104.wav|Here's the identical rope at sixpence an inch.
-data/LJSpeech-1.1/wavs/LJ008-0108.wav|The ordinary "gravely uttered, 'Come this way, Mr. Smith.'
-data/LJSpeech-1.1/wavs/LJ008-0110.wav|The prisoners had not risen.
-data/LJSpeech-1.1/wavs/LJ008-0112.wav|He was death's counterfeit, tall, shriveled, and pale;
-data/LJSpeech-1.1/wavs/LJ008-0114.wav|His hands were clasped, and he was truly penitent.
-data/LJSpeech-1.1/wavs/LJ008-0123.wav|"Sir," he answered, "they sent me the very riff-raff."
-data/LJSpeech-1.1/wavs/LJ008-0127.wav|As we were crossing the press yard,
-data/LJSpeech-1.1/wavs/LJ008-0131.wav|the other he kept between his hands.
-data/LJSpeech-1.1/wavs/LJ008-0137.wav|He bowed his head under extreme pressure of ignominy,
-data/LJSpeech-1.1/wavs/LJ008-0148.wav|One night he was missing
-data/LJSpeech-1.1/wavs/LJ008-0150.wav|Four years passed without the detection of the murderers,
-data/LJSpeech-1.1/wavs/LJ008-0152.wav|made a full confession, and implicated Holloway and Haggerty.
-data/LJSpeech-1.1/wavs/LJ008-0159.wav|Very soon women began to scream with terror;
-data/LJSpeech-1.1/wavs/LJ008-0161.wav|presently fell, and were at once trampled to death.
-data/LJSpeech-1.1/wavs/LJ008-0167.wav|No one who fell ever rose again.
-data/LJSpeech-1.1/wavs/LJ008-0186.wav|The concourse was very great, notwithstanding these warnings.
-data/LJSpeech-1.1/wavs/LJ008-0197.wav|of the Lamb's Coffee House;
-data/LJSpeech-1.1/wavs/LJ008-0198.wav|£2 was a common price for a window.
-data/LJSpeech-1.1/wavs/LJ008-0218.wav|They were mainly members of the criminal classes.
-data/LJSpeech-1.1/wavs/LJ008-0220.wav|hoary-headed and hardened in guilt, were still at large.
-data/LJSpeech-1.1/wavs/LJ008-0224.wav|With them were younger men and women:
-data/LJSpeech-1.1/wavs/LJ008-0226.wav|the latter unsexed and brutalized by dissipation,
-data/LJSpeech-1.1/wavs/LJ008-0230.wav|fell with a strange unnatural sound upon the ear
-data/LJSpeech-1.1/wavs/LJ008-0271.wav|This was more particularly the practice in London.
-data/LJSpeech-1.1/wavs/LJ008-0287.wav|to make those sanctions an object of contemptuous mockery.
-data/LJSpeech-1.1/wavs/LJ008-0288.wav|The consequences were plainly proved to the inspectors.
-data/LJSpeech-1.1/wavs/LJ008-0291.wav|The time thus spent varied considerably,
-data/LJSpeech-1.1/wavs/LJ008-0294.wav|nearly indefinitely deferred.
-data/LJSpeech-1.1/wavs/LJ008-0298.wav|Sometimes the report was delayed.
-data/LJSpeech-1.1/wavs/LJ008-0308.wav|The Recorder's report generally reached Newgate late at night.
-data/LJSpeech-1.1/wavs/LJ009-0010.wav|and thought every one anxious to promote his death.
-data/LJSpeech-1.1/wavs/LJ009-0025.wav|As to the exclusion of strangers on these occasions,
-data/LJSpeech-1.1/wavs/LJ009-0027.wav|will thereby be lost.
-data/LJSpeech-1.1/wavs/LJ009-0034.wav|The sheriffs were in one gallery;
-data/LJSpeech-1.1/wavs/LJ009-0044.wav|His features have no felonious cast;
-data/LJSpeech-1.1/wavs/LJ009-0047.wav|The next convict is clearly and unmistakably a villain.
-data/LJSpeech-1.1/wavs/LJ009-0049.wav|For this offense the punishment is death.
-data/LJSpeech-1.1/wavs/LJ009-0054.wav|He is quite content to die;
-data/LJSpeech-1.1/wavs/LJ009-0057.wav|Already he is half dead.
-data/LJSpeech-1.1/wavs/LJ009-0058.wav|Great efforts have been made to save his life.
-data/LJSpeech-1.1/wavs/LJ009-0062.wav|buries his head under his body.
-data/LJSpeech-1.1/wavs/LJ009-0071.wav|The burglar is heard to mutter an angry oath.
-data/LJSpeech-1.1/wavs/LJ009-0073.wav|The forger has never moved.
-data/LJSpeech-1.1/wavs/LJ009-0074.wav|Let us pass on.
-data/LJSpeech-1.1/wavs/LJ009-0076.wav|We come to the sermon.
-data/LJSpeech-1.1/wavs/LJ009-0086.wav|But why should I repeat the whole?
-data/LJSpeech-1.1/wavs/LJ009-0088.wav|ignominy, sorrow, sufferings, wretchedness, pangs,
-data/LJSpeech-1.1/wavs/LJ009-0090.wav|The dying men are dreadfully agitated.
-data/LJSpeech-1.1/wavs/LJ009-0096.wav|The poor sheep-stealer is in a frenzy.
-data/LJSpeech-1.1/wavs/LJ009-0126.wav|Hardly any one.
-data/LJSpeech-1.1/wavs/LJ009-0132.wav|Although this misapplication of religious services still went on,
-data/LJSpeech-1.1/wavs/LJ009-0144.wav|In fact his looks denoted extreme sorrow and contrition,
-data/LJSpeech-1.1/wavs/LJ009-0154.wav|Mr. Charles Kean the tragedian was also present,
-data/LJSpeech-1.1/wavs/LJ009-0164.wav|sheep or horse stealing, and stealing in a dwelling-house.
-data/LJSpeech-1.1/wavs/LJ009-0168.wav|robbery, burglary, and arson.
-data/LJSpeech-1.1/wavs/LJ009-0170.wav|to fifty-six in 1839.
-data/LJSpeech-1.1/wavs/LJ009-0205.wav|Then came the newly-formed horse patrol, with drawn cutlasses,
-data/LJSpeech-1.1/wavs/LJ009-0207.wav|extended at full length on an inclined platform
-data/LJSpeech-1.1/wavs/LJ009-0219.wav|A clause was inserted to the effect that
-data/LJSpeech-1.1/wavs/LJ009-0231.wav|Although these objectionable practices had disappeared,
-data/LJSpeech-1.1/wavs/LJ009-0242.wav|and the sentence was properly and completely carried out.
-data/LJSpeech-1.1/wavs/LJ009-0243.wav|Other cases might be quoted,
-data/LJSpeech-1.1/wavs/LJ009-0256.wav|Still he resisted.
-data/LJSpeech-1.1/wavs/LJ009-0260.wav|The spectacle was horrible;
-data/LJSpeech-1.1/wavs/LJ009-0262.wav|The crowd vociferously yelled their disapproval, and at length
-data/LJSpeech-1.1/wavs/LJ009-0265.wav|Even now his sufferings were not at an end,
-data/LJSpeech-1.1/wavs/LJ009-0267.wav|When Luigi Buranelli was executed in 1855,
-data/LJSpeech-1.1/wavs/LJ009-0273.wav|two supporting his body and two his legs.
-data/LJSpeech-1.1/wavs/LJ009-0294.wav|One was Askern,
-data/LJSpeech-1.1/wavs/LJ009-0296.wav|It was not always easy to hire a hangman.
-data/LJSpeech-1.1/wavs/LJ009-0301.wav|who deserted, and was pursued, but without success.
-data/LJSpeech-1.1/wavs/LJ009-0303.wav|Then came the cost of the gallows,
-data/LJSpeech-1.1/wavs/LJ010-0007.wav|Police protection was better and more effective;
-data/LJSpeech-1.1/wavs/LJ010-0019.wav|As time passed,
-data/LJSpeech-1.1/wavs/LJ010-0021.wav|The credulity of investors, the unscrupulous dishonesty of bankers,
-data/LJSpeech-1.1/wavs/LJ010-0035.wav|Courvoisier might have lived a century earlier.
-data/LJSpeech-1.1/wavs/LJ010-0042.wav|A not altogether new crime, however, akin to murder,
-data/LJSpeech-1.1/wavs/LJ010-0044.wav|The present Queen very soon after her accession
-data/LJSpeech-1.1/wavs/LJ010-0051.wav|The well-known Cato Street conspiracy,
-data/LJSpeech-1.1/wavs/LJ010-0072.wav|Returning to England,
-data/LJSpeech-1.1/wavs/LJ010-0074.wav|After this he tried farming, but failed.
-data/LJSpeech-1.1/wavs/LJ010-0081.wav|One of the conspirators, by name Edwards,
-data/LJSpeech-1.1/wavs/LJ010-0094.wav|bound, as it happened, to the Archbishop of York's.
-data/LJSpeech-1.1/wavs/LJ010-0101.wav|the lights were extinguished, and a desperate conflict ensued.
-data/LJSpeech-1.1/wavs/LJ010-0107.wav|and a military sash.
-data/LJSpeech-1.1/wavs/LJ010-0118.wav|were not altogether creditable to the Government.
-data/LJSpeech-1.1/wavs/LJ010-0128.wav|they with Brunt and Tidd scorned the ordinary's ministrations,
-data/LJSpeech-1.1/wavs/LJ010-0131.wav|Come, old cock-of-wax, it will soon be over.
-data/LJSpeech-1.1/wavs/LJ010-0141.wav|he was generally supposed to be a surgeon.
-data/LJSpeech-1.1/wavs/LJ010-0144.wav|but is only an ordinary commonplace tool.
-data/LJSpeech-1.1/wavs/LJ010-0149.wav|She was seized before she could do any mischief,
-data/LJSpeech-1.1/wavs/LJ010-0161.wav|two years after she ascended the throne.
-data/LJSpeech-1.1/wavs/LJ010-0169.wav|sometimes in the Strand, or the West End.
-data/LJSpeech-1.1/wavs/LJ010-0182.wav|the Duchess of Kent.
-data/LJSpeech-1.1/wavs/LJ010-0188.wav|Oxford expressed little anxiety or concern.
-data/LJSpeech-1.1/wavs/LJ010-0192.wav|or of the fatal consequences which might have ensued.
-data/LJSpeech-1.1/wavs/LJ010-0193.wav|When brought to trial he hardly realized his position,
-data/LJSpeech-1.1/wavs/LJ010-0213.wav|all of which declared their approval of the commander-in-chief.
-data/LJSpeech-1.1/wavs/LJ010-0250.wav|of the criminal intent to kill.
-data/LJSpeech-1.1/wavs/LJ010-0251.wav|Francis was sentenced to be hanged, decapitated, and quartered,
-data/LJSpeech-1.1/wavs/LJ010-0255.wav|This was in May 1842.
-data/LJSpeech-1.1/wavs/LJ010-0256.wav|Undeterred by the well-merited punishment which had overtaken Francis,
-data/LJSpeech-1.1/wavs/LJ010-0262.wav|charged him with the offense.
-data/LJSpeech-1.1/wavs/LJ010-0264.wav|Later on, however, Dasset was himself seized and interrogated,
-data/LJSpeech-1.1/wavs/LJ010-0266.wav|and a long, sickly, pale face, with light hair;
-data/LJSpeech-1.1/wavs/LJ010-0283.wav|and walking for choice through prickly gorse bushes.
-data/LJSpeech-1.1/wavs/LJ010-0286.wav|nine shillings, all in shillings, and no other coin.
-data/LJSpeech-1.1/wavs/LJ010-0288.wav|deemed valid as any palliation of his offense.
-data/LJSpeech-1.1/wavs/LJ010-0297.wav|But there were other notorious cases of forgery.
-data/LJSpeech-1.1/wavs/LJ010-0298.wav|That of Fauntleroy the banker, in 1824,
-data/LJSpeech-1.1/wavs/LJ010-0301.wav|He had entered the house as clerk in 1800;
-data/LJSpeech-1.1/wavs/LJ011-0008.wav|whereupon he produced exchequer bills to the amount.
-data/LJSpeech-1.1/wavs/LJ011-0016.wav|His countenance had an expression of most subdued resignation.
-data/LJSpeech-1.1/wavs/LJ011-0021.wav|Further investigations brought other similar frauds to light,
-data/LJSpeech-1.1/wavs/LJ011-0024.wav|Meanwhile public gossip was busy with Fauntleroy's name,
-data/LJSpeech-1.1/wavs/LJ011-0028.wav|In his defense
-data/LJSpeech-1.1/wavs/LJ011-0030.wav|was substantially true
-data/LJSpeech-1.1/wavs/LJ011-0036.wav|but the result in both cases was unfavorable.
-data/LJSpeech-1.1/wavs/LJ011-0044.wav|will no longer be herded indiscriminately together.
-data/LJSpeech-1.1/wavs/LJ011-0047.wav|This was on the text,
-data/LJSpeech-1.1/wavs/LJ011-0055.wav|Edmund Angelini, to take Fauntleroy's place.
-data/LJSpeech-1.1/wavs/LJ011-0056.wav|Angelini wrote to the Lord Mayor to this effect,
-data/LJSpeech-1.1/wavs/LJ011-0059.wav|There were doubts of his sanity.
-data/LJSpeech-1.1/wavs/LJ011-0097.wav|that of Dickson and Co.
-data/LJSpeech-1.1/wavs/LJ011-0107.wav|On entering Newgate he said,
-data/LJSpeech-1.1/wavs/LJ011-0109.wav|my heart has undergone that horrible penalty.
-data/LJSpeech-1.1/wavs/LJ011-0129.wav|Maynard was the only one who suffered death.
-data/LJSpeech-1.1/wavs/LJ011-0132.wav|except the forgery of wills and powers of attorney.
-data/LJSpeech-1.1/wavs/LJ011-0150.wav|Miss Turner was a school-girl of barely fifteen,
-data/LJSpeech-1.1/wavs/LJ011-0152.wav|The elder brother,
-data/LJSpeech-1.1/wavs/LJ011-0155.wav|He had eloped with his first wife from school.
-data/LJSpeech-1.1/wavs/LJ011-0171.wav|was the state of her father's affairs.
-data/LJSpeech-1.1/wavs/LJ011-0186.wav|by the blacksmith in the usual way.
-data/LJSpeech-1.1/wavs/LJ011-0202.wav|The uncle claimed her. The husband resisted.
-data/LJSpeech-1.1/wavs/LJ011-0208.wav|On this Wakefield gave in.
-data/LJSpeech-1.1/wavs/LJ011-0213.wav|married the said Ellen Turner.
-data/LJSpeech-1.1/wavs/LJ011-0217.wav|Mr. Justice Bayley, in summing up,
-data/LJSpeech-1.1/wavs/LJ011-0233.wav|that thieves or depredators were idle or entirely unsuccessful.
-data/LJSpeech-1.1/wavs/LJ011-0234.wav|Bigger "jobs" than ever were planned and attempted,
-data/LJSpeech-1.1/wavs/LJ011-0254.wav|A life and death struggle ensued. Mullay cried "Murder!"
-data/LJSpeech-1.1/wavs/LJ011-0263.wav|It was perpetrated upon a respectable country solicitor,
-data/LJSpeech-1.1/wavs/LJ011-0266.wav|The money went after her to her children.
-data/LJSpeech-1.1/wavs/LJ011-0269.wav|An appointment was made and kept by Mr. Gee,
-data/LJSpeech-1.1/wavs/LJ011-0280.wav|Mr. Gee at first stoutly refused.
-data/LJSpeech-1.1/wavs/LJ012-0011.wav|which Mrs. Canning had lost by remarriage.
-data/LJSpeech-1.1/wavs/LJ012-0014.wav|Edwards was sentenced to two years' imprisonment in Newgate,
-data/LJSpeech-1.1/wavs/LJ012-0033.wav|Jewels were re-set,
-data/LJSpeech-1.1/wavs/LJ012-0114.wav|but their request, in spite of their earnest entreaties,
-data/LJSpeech-1.1/wavs/LJ012-0120.wav|one of them of considerable size.
-data/LJSpeech-1.1/wavs/LJ012-0138.wav|They also ascertained that a gold-refiner,
-data/LJSpeech-1.1/wavs/LJ012-0141.wav|Moss presently turned approver,
-data/LJSpeech-1.1/wavs/LJ012-0154.wav|He was ostensibly a publican,
-data/LJSpeech-1.1/wavs/LJ012-0159.wav|He did not thrive on prison fare,
-data/LJSpeech-1.1/wavs/LJ012-0194.wav|But Burke and Hare had their imitators further south,
-data/LJSpeech-1.1/wavs/LJ012-0199.wav|After a little
-data/LJSpeech-1.1/wavs/LJ012-0203.wav|Eventually the law overtook them, but almost by accident.
-data/LJSpeech-1.1/wavs/LJ012-0216.wav|Williams, and May had been concerned in the transaction.
-data/LJSpeech-1.1/wavs/LJ012-0222.wav|plainly pointing to the perpetration of other crimes.
-data/LJSpeech-1.1/wavs/LJ012-0223.wav|These facts were represented before the police magistrate
-data/LJSpeech-1.1/wavs/LJ012-0228.wav|The evidence from first to last was circumstantial,
-data/LJSpeech-1.1/wavs/LJ012-0231.wav|although it included statements that were improbable and unsubstantiated.
-data/LJSpeech-1.1/wavs/LJ012-0243.wav|There were many features of resemblance in these crimes.
-data/LJSpeech-1.1/wavs/LJ012-0250.wav|On the 7th July, 1837,
-data/LJSpeech-1.1/wavs/LJ012-0259.wav|who had been missing since the previous Christmas Day.
-data/LJSpeech-1.1/wavs/LJ012-0261.wav|This brought suspicion on to a certain James Greenacre,
-data/LJSpeech-1.1/wavs/LJ012-0280.wav|or of Gardelle's frantic efforts to conceal his crime.
-data/LJSpeech-1.1/wavs/LJ012-0282.wav|This, wrapped up in a silk handkerchief,
-data/LJSpeech-1.1/wavs/LJ012-0294.wav|without hesitation brought in a verdict of willful murder.
-data/LJSpeech-1.1/wavs/LJ013-0002.wav|As the century advanced crimes of fraud increased.
-data/LJSpeech-1.1/wavs/LJ013-0008.wav|came to light in this same year, 1841.
-data/LJSpeech-1.1/wavs/LJ013-0013.wav|with other underwriters for a second sum of £2000.
-data/LJSpeech-1.1/wavs/LJ013-0023.wav|that he got a chance of accomplishing his crime.
-data/LJSpeech-1.1/wavs/LJ013-0031.wav|The crime soon became public.
-data/LJSpeech-1.1/wavs/LJ013-0045.wav|Wallace's relations warned him against his Liverpool friend,
-data/LJSpeech-1.1/wavs/LJ013-0050.wav|But among the charges on the estate he left
-data/LJSpeech-1.1/wavs/LJ013-0059.wav|There were two separate affairs.
-data/LJSpeech-1.1/wavs/LJ013-0060.wav|In the first a maiden lady, Miss Slack,
-data/LJSpeech-1.1/wavs/LJ013-0062.wav|to draw the dividends on more than one sum.
-data/LJSpeech-1.1/wavs/LJ013-0064.wav|Barber, it was said, became aware of this,
-data/LJSpeech-1.1/wavs/LJ013-0081.wav|Banks and bankers continued to be victimized.
-data/LJSpeech-1.1/wavs/LJ013-0095.wav|Burgess' continued absence was soon noticed at the bank.
-data/LJSpeech-1.1/wavs/LJ013-0097.wav|as soon as that gentleman was referred to.
-data/LJSpeech-1.1/wavs/LJ013-0099.wav|A smart detective, Forrester, after a little inquiry,
-data/LJSpeech-1.1/wavs/LJ013-0101.wav|Forrester next traced the fugitives to Liverpool,
-data/LJSpeech-1.1/wavs/LJ013-0106.wav|The inn belonging to Burgess was surrounded
-data/LJSpeech-1.1/wavs/LJ013-0120.wav|whom he had shown over the plate closet.
-data/LJSpeech-1.1/wavs/LJ013-0124.wav|who belonged to five good London clubs --
-data/LJSpeech-1.1/wavs/LJ013-0148.wav|four thousand pounds
-data/LJSpeech-1.1/wavs/LJ013-0154.wav|and the murderers immured within its walls.
-data/LJSpeech-1.1/wavs/LJ013-0172.wav|were found in the butler's pantry, used by Courvoisier.
+data/ljspeech_filter/wavs/LJ001-0002.wav|in being comparatively modern.
+data/ljspeech_filter/wavs/LJ001-0008.wav|has never been surpassed.
+data/ljspeech_filter/wavs/LJ001-0013.wav|than in the same operations with ugly ones.
+data/ljspeech_filter/wavs/LJ001-0054.wav|Jenson, however, had many contemporaries who used beautiful type,
+data/ljspeech_filter/wavs/LJ001-0078.wav|to improve the letter in form.
+data/ljspeech_filter/wavs/LJ001-0090.wav|With this change the art of printing touched bottom,
+data/ljspeech_filter/wavs/LJ001-0104.wav|Italy is contentedly stagnant.
+data/ljspeech_filter/wavs/LJ001-0125.wav|this is the narrowing of the modern letters.
+data/ljspeech_filter/wavs/LJ001-0126.wav|Most of Jenson's letters are designed within a square,
+data/ljspeech_filter/wavs/LJ001-0129.wav|the lateral compression of his letters renders necessary.
+data/ljspeech_filter/wavs/LJ001-0165.wav|One fruitful source of badness in paper
+data/ljspeech_filter/wavs/LJ001-0170.wav|being thin, tough, and opaque.
+data/ljspeech_filter/wavs/LJ001-0179.wav|even when the woodcuts are very rude indeed,
+data/ljspeech_filter/wavs/LJ001-0185.wav|printed books might once again illustrate to the full
+data/ljspeech_filter/wavs/LJ002-0002.wav|Under the conditions referred to in the previous chapter,
+data/ljspeech_filter/wavs/LJ002-0005.wav|The prison population fluctuated a great deal,
+data/ljspeech_filter/wavs/LJ002-0007.wav|Neild gives some figures which well illustrate this.
+data/ljspeech_filter/wavs/LJ002-0009.wav|On the 27th April, in the following year,
+data/ljspeech_filter/wavs/LJ002-0012.wav|After that they fell as steadily,
+data/ljspeech_filter/wavs/LJ002-0023.wav|On the female side matters were much worse;
+data/ljspeech_filter/wavs/LJ002-0026.wav|in the three years between 1813 and 1816,
+data/ljspeech_filter/wavs/LJ002-0029.wav|as it was occupied and appropriated in 1810.
+data/ljspeech_filter/wavs/LJ002-0032.wav|These were: 1. The male debtors' side.
+data/ljspeech_filter/wavs/LJ002-0035.wav|8. The press yard.
+data/ljspeech_filter/wavs/LJ002-0044.wav|the whole about fifteen feet wide.
+data/ljspeech_filter/wavs/LJ002-0065.wav|or female convicts ordered for execution.
+data/ljspeech_filter/wavs/LJ002-0069.wav|to the various wards their friends occupied.
+data/ljspeech_filter/wavs/LJ002-0076.wav|The state side contained twelve good-sized rooms,
+data/ljspeech_filter/wavs/LJ002-0083.wav|The ground floor cells were nine feet by six;
+data/ljspeech_filter/wavs/LJ002-0114.wav|and imprisonment for debt has almost entirely disappeared.
+data/ljspeech_filter/wavs/LJ002-0116.wav|The number of processes against debtors annually was extraordinary.
+data/ljspeech_filter/wavs/LJ002-0119.wav|In that period upwards of 200,000 writs
+data/ljspeech_filter/wavs/LJ002-0125.wav|Neild also says that in 1793,
+data/ljspeech_filter/wavs/LJ002-0129.wav|would have amounted to £68,728, and if defended,
+data/ljspeech_filter/wavs/LJ002-0131.wav|three times the amount would be expended.
+data/ljspeech_filter/wavs/LJ002-0136.wav|and the disuse of the inferior courts.
+data/ljspeech_filter/wavs/LJ002-0139.wav|under 40 shillings arising within the city.
+data/ljspeech_filter/wavs/LJ002-0142.wav|These courts were open to many and grave objections.
+data/ljspeech_filter/wavs/LJ002-0151.wav|Neild found at his visit to Newgate in 1810,
+data/ljspeech_filter/wavs/LJ002-0153.wav|weighted by treble the amount of costs.
+data/ljspeech_filter/wavs/LJ002-0155.wav|for which the costs were 6 shillings 10 pence.
+data/ljspeech_filter/wavs/LJ002-0191.wav|Besides those actually resident within the walls,
+data/ljspeech_filter/wavs/LJ002-0198.wav|The office of marshal had been hereditary,
+data/ljspeech_filter/wavs/LJ002-0208.wav|into holes marked with numbers.
+data/ljspeech_filter/wavs/LJ002-0213.wav|The Fleet, which stood in Farringdon Street,
+data/ljspeech_filter/wavs/LJ002-0216.wav|The shameful malpractices of Bambridge,
+data/ljspeech_filter/wavs/LJ002-0234.wav|In the yard behind the prison
+data/ljspeech_filter/wavs/LJ002-0236.wav|Matters were rather better at the Marshalsea.
+data/ljspeech_filter/wavs/LJ002-0239.wav|also for prisoners committed by the Admiralty Court.
+data/ljspeech_filter/wavs/LJ002-0250.wav|Their conduct too was orderly on the whole.
+data/ljspeech_filter/wavs/LJ002-0252.wav|The inmates, who euphemistically styled themselves "collegians,"
+data/ljspeech_filter/wavs/LJ002-0281.wav|The demands for fees were excessive in Giltspur Street.
+data/ljspeech_filter/wavs/LJ002-0287.wav|There were no beds or bedding, no straw even.
+data/ljspeech_filter/wavs/LJ002-0298.wav|in his evidence in 1814, said it was more,
+data/ljspeech_filter/wavs/LJ002-0311.wav|These were lumped together into a general fund,
+data/ljspeech_filter/wavs/LJ002-0332.wav|Sometimes rugs were urgently required and not forthcoming;
+data/ljspeech_filter/wavs/LJ003-0004.wav|No remonstrance was attended to,
+data/ljspeech_filter/wavs/LJ003-0017.wav|Order throughout the debtors' side was preserved
+data/ljspeech_filter/wavs/LJ003-0022.wav|This steward was practically supreme.
+data/ljspeech_filter/wavs/LJ003-0028.wav|and no doubt made the meat also pay toll.
+data/ljspeech_filter/wavs/LJ003-0050.wav|(1) those awaiting trial;
+data/ljspeech_filter/wavs/LJ003-0061.wav|No beds were issued, only two rugs per prisoner.
+data/ljspeech_filter/wavs/LJ003-0067.wav|in the then existing state of the law,
+data/ljspeech_filter/wavs/LJ003-0104.wav|Having been committed to Clerkenwell,
+data/ljspeech_filter/wavs/LJ003-0113.wav|A prisoner, generally the oldest and most dexterous thief,
+data/ljspeech_filter/wavs/LJ003-0123.wav|The most trifling acts were magnified into offenses.
+data/ljspeech_filter/wavs/LJ003-0129.wav|a taste for spirits. End quote.
+data/ljspeech_filter/wavs/LJ003-0164.wav|or the daring reporter of parliamentary debates.
+data/ljspeech_filter/wavs/LJ003-0197.wav|This procrastination bred certain callousness.
+data/ljspeech_filter/wavs/LJ003-0200.wav|Visitors were permitted access to them without stint;
+data/ljspeech_filter/wavs/LJ003-0220.wav|quote, so discreditable to the metropolis, end quote.
+data/ljspeech_filter/wavs/LJ003-0225.wav|were meager or altogether absent.
+data/ljspeech_filter/wavs/LJ003-0228.wav|and the general insufficiency was such
+data/ljspeech_filter/wavs/LJ003-0259.wav|and attracted attention by their disorderly behavior.
+data/ljspeech_filter/wavs/LJ003-0281.wav|and the danger of losing material, raw or manufactured.
+data/ljspeech_filter/wavs/LJ003-0284.wav|that when they were not carousing, plotting, or scheming,
+data/ljspeech_filter/wavs/LJ003-0287.wav|to undertake some kind of reform.
+data/ljspeech_filter/wavs/LJ003-0289.wav|Upon the 29th July the same year,
+data/ljspeech_filter/wavs/LJ003-0297.wav|It admitted the paramount necessity
+data/ljspeech_filter/wavs/LJ003-0320.wav|which recommended restrictions upon the number of visitors admitted.
+data/ljspeech_filter/wavs/LJ003-0339.wav|could possibly afford.
+data/ljspeech_filter/wavs/LJ004-0008.wav|Mr. Neild, a second Howard,
+data/ljspeech_filter/wavs/LJ004-0010.wav|with a few bright exceptions, still deplorable and disgraceful.
+data/ljspeech_filter/wavs/LJ004-0012.wav|was in several places merely temporary:
+data/ljspeech_filter/wavs/LJ004-0034.wav|Moreover, the laws applied more particularly to county jurisdictions.
+data/ljspeech_filter/wavs/LJ004-0040.wav|They felt that private enterprise might
+data/ljspeech_filter/wavs/LJ004-0042.wav|The association was organized under the most promising auspices.
+data/ljspeech_filter/wavs/LJ004-0052.wav|which Howard had eulogized some forty years before.
+data/ljspeech_filter/wavs/LJ004-0054.wav|In order to give greater value to the pamphlet,
+data/ljspeech_filter/wavs/LJ004-0068.wav|or amidst the noxious effluvia of dirt and corruption.
+data/ljspeech_filter/wavs/LJ004-0099.wav|Ventilators, hand and others, were to be supplied.
+data/ljspeech_filter/wavs/LJ004-0101.wav|Warm and cold baths, or "commodious bathing tubs,"
+data/ljspeech_filter/wavs/LJ004-0104.wav|By the 31 George III. c. 46, s. 5,
+data/ljspeech_filter/wavs/LJ004-0109.wav|according to their categories or crimes.
+data/ljspeech_filter/wavs/LJ004-0114.wav|King's evidences were also to be lodged apart.
+data/ljspeech_filter/wavs/LJ004-0123.wav|sixty-eight had only two divisions, and so on.
+data/ljspeech_filter/wavs/LJ004-0126.wav|The want of room was still a crying evil.
+data/ljspeech_filter/wavs/LJ004-0127.wav|In one hundred jails,
+data/ljspeech_filter/wavs/LJ004-0132.wav|the old evils of indiscriminate association still continued unchecked.
+data/ljspeech_filter/wavs/LJ004-0137.wav|and that it was accomplished by "sleeping edgewise."
+data/ljspeech_filter/wavs/LJ004-0143.wav|so that the culprit, in addition to his sentence,
+data/ljspeech_filter/wavs/LJ004-0151.wav|They were far worse at Bristol,
+data/ljspeech_filter/wavs/LJ004-0160.wav|the uproar of oaths, complaints, and obscenity,
+data/ljspeech_filter/wavs/LJ004-0175.wav|In this prison there was no female infirmary.
+data/ljspeech_filter/wavs/LJ004-0194.wav|No irons were worn except as a punishment.
+data/ljspeech_filter/wavs/LJ004-0205.wav|Industrial labor had also been introduced with satisfactory results.
+data/ljspeech_filter/wavs/LJ004-0206.wav|Blanket weaving and cloth spinning was carried on prosperously,
+data/ljspeech_filter/wavs/LJ004-0208.wav|There were work-rooms for wool-washing, dyeing, carding, and spinning.
+data/ljspeech_filter/wavs/LJ004-0221.wav|The food was properly prepared in the prison kitchen.
+data/ljspeech_filter/wavs/LJ004-0241.wav|Other cases of moral deterioration have already been recorded.
+data/ljspeech_filter/wavs/LJ005-0034.wav|Undeterred by these sarcasms and misrepresentations,
+data/ljspeech_filter/wavs/LJ005-0037.wav|It sought to obtain and diffuse useful information
+data/ljspeech_filter/wavs/LJ005-0045.wav|Nor did it confine itself to mere verbal recommendations.
+data/ljspeech_filter/wavs/LJ005-0053.wav|A very valuable volume published by the Society
+data/ljspeech_filter/wavs/LJ005-0057.wav|was introduced as early as 1790 by Mr. Blackburn
+data/ljspeech_filter/wavs/LJ005-0074.wav|cap. 64, and 5 George IV. cap. 85
+data/ljspeech_filter/wavs/LJ005-0104.wav|The progress of improvement was certainly extremely slow.
+data/ljspeech_filter/wavs/LJ005-0119.wav|No attempt was made to maintain discipline.
+data/ljspeech_filter/wavs/LJ005-0121.wav|By degrees, however,
+data/ljspeech_filter/wavs/LJ005-0132.wav|Only a few glaring evils still demanded a remedy.
+data/ljspeech_filter/wavs/LJ005-0137.wav|Four years later the Prison Society reported
+data/ljspeech_filter/wavs/LJ005-0139.wav|making an average of nineteen persons occupying each room.
+data/ljspeech_filter/wavs/LJ005-0142.wav|occupying barely 390 feet lineal
+data/ljspeech_filter/wavs/LJ005-0154.wav|The rations varied considerably everywhere.
+data/ljspeech_filter/wavs/LJ005-0156.wav|in others meat, soup, gruel, beer were given.
+data/ljspeech_filter/wavs/LJ005-0172.wav|When that time arrives
+data/ljspeech_filter/wavs/LJ005-0190.wav|the knowledge and practice of every species of criminality.
+data/ljspeech_filter/wavs/LJ005-0195.wav|There was no decency whatever in the internal arrangements;
+data/ljspeech_filter/wavs/LJ005-0207.wav|Kidderminster had a prison, one damp chill room,
+data/ljspeech_filter/wavs/LJ005-0210.wav|At Walsall, in Staffordshire,
+data/ljspeech_filter/wavs/LJ005-0218.wav|The chapel still continued incommodious and insufficient
+data/ljspeech_filter/wavs/LJ005-0231.wav|The city justices had not fulfilled this obligation.
+data/ljspeech_filter/wavs/LJ005-0247.wav|Mr. Samuel Hoare was examined by this committee
+data/ljspeech_filter/wavs/LJ005-0261.wav|As a means of securing this uniformity,
+data/ljspeech_filter/wavs/LJ005-0276.wav|and for securing a proper system of prison discipline.
+data/ljspeech_filter/wavs/LJ005-0279.wav|an incomplete and fallacious method of preventing contamination.
+data/ljspeech_filter/wavs/LJ005-0280.wav|The Lords' Committee fully recognized the painful fact
+data/ljspeech_filter/wavs/LJ005-0282.wav|"the comparatively innocent are seduced, the unwary are entrapped,
+data/ljspeech_filter/wavs/LJ005-0284.wav|of more depraved and systematic criminals.
+data/ljspeech_filter/wavs/LJ005-0288.wav|when speaking more particularly of the borough jails.
+data/ljspeech_filter/wavs/LJ005-0297.wav|They therefore recommended that the prisoners should be removed
+data/ljspeech_filter/wavs/LJ006-0009.wav|backed up by the evidence of several influential witnesses.
+data/ljspeech_filter/wavs/LJ006-0016.wav|These considerations no doubt had weight
+data/ljspeech_filter/wavs/LJ006-0031.wav|that punishment must be reformatory as well as deterrent.
+data/ljspeech_filter/wavs/LJ006-0041.wav|Changes introduced under pressure had been only skin deep.
+data/ljspeech_filter/wavs/LJ006-0061.wav|and "the greatest contempt shown for the law."
+data/ljspeech_filter/wavs/LJ006-0066.wav|In the middle yard it was still worse.
+data/ljspeech_filter/wavs/LJ006-0081.wav|The wardsman still exacted dues, of which more directly,
+data/ljspeech_filter/wavs/LJ006-0083.wav|"So great is the authority exercised by him,
+data/ljspeech_filter/wavs/LJ006-0103.wav|The allowance of food was not illiberal,
+data/ljspeech_filter/wavs/LJ006-0132.wav|All the wardsmen alike were more or less irresponsible.
+data/ljspeech_filter/wavs/LJ006-0141.wav|The female wards-women were also given to intemperance.
+data/ljspeech_filter/wavs/LJ006-0143.wav|There was no penalty attached to drunkenness.
+data/ljspeech_filter/wavs/LJ006-0145.wav|He could indulge in snuff if a snuff-taker,
+data/ljspeech_filter/wavs/LJ006-0147.wav|it was still freely introduced into the prison.
+data/ljspeech_filter/wavs/LJ006-0150.wav|and then only went round to count the number.
+data/ljspeech_filter/wavs/LJ006-0166.wav|dice, dangerous implements, or other prohibited articles.
+data/ljspeech_filter/wavs/LJ006-0168.wav|to taking the descriptions of newly-arrived prisoners.
+data/ljspeech_filter/wavs/LJ006-0175.wav|In his administration of discipline he was quite uncertain;
+data/ljspeech_filter/wavs/LJ006-0176.wav|the punishments he inflicted were unequal,
+data/ljspeech_filter/wavs/LJ006-0182.wav|Under the reckless contempt for regulations,
+data/ljspeech_filter/wavs/LJ006-0202.wav|The news-vendor was also a tobacconist,
+data/ljspeech_filter/wavs/LJ006-0220.wav|Feasting alternated with fighting.
+data/ljspeech_filter/wavs/LJ006-0225.wav|If any man presumed to turn in too early
+data/ljspeech_filter/wavs/LJ006-0227.wav|or his bedclothes were drawn away across the room.
+data/ljspeech_filter/wavs/LJ006-0229.wav|which they dropped smoldering into their fellow-prisoners' pockets.
+data/ljspeech_filter/wavs/LJ006-0240.wav|Watkins' knee-joint is very severely injured.
+data/ljspeech_filter/wavs/LJ006-0257.wav|hot meat, poultry, and fish were also forbidden.
+data/ljspeech_filter/wavs/LJ006-0278.wav|A female prisoner kept the registers.
+data/ljspeech_filter/wavs/LJ006-0281.wav|in some yards
+data/ljspeech_filter/wavs/LJ006-0291.wav|to clean the governor's office in the male prison;
+data/ljspeech_filter/wavs/LJ007-0006.wav|They had introduced "much order and cleanliness,"
+data/ljspeech_filter/wavs/LJ007-0008.wav|their especial care.
+data/ljspeech_filter/wavs/LJ007-0009.wav|They had tried, moreover,
+data/ljspeech_filter/wavs/LJ007-0015.wav|it had the bad effect of distracting attention,
+data/ljspeech_filter/wavs/LJ007-0033.wav|All privacy was impossible under the circumstances.
+data/ljspeech_filter/wavs/LJ007-0048.wav|so subversive of meditation, so disturbing to the thoughts;
+data/ljspeech_filter/wavs/LJ007-0071.wav|in the face of impediments confessedly discouraging
+data/ljspeech_filter/wavs/LJ007-0081.wav|whose proper place was the asylum.
+data/ljspeech_filter/wavs/LJ007-0086.wav|at Buckingham and Hereford for eleven years
+data/ljspeech_filter/wavs/LJ007-0088.wav|for not less a period than twenty-four years.
+data/ljspeech_filter/wavs/LJ007-0103.wav|Mr. J. E. Sparrow and Mr. Clipperton
+data/ljspeech_filter/wavs/LJ007-0105.wav|counsel for the two M.P.'s, was also concerned.
+data/ljspeech_filter/wavs/LJ007-0130.wav|are all huddled together without discrimination, oversight, or control."
+data/ljspeech_filter/wavs/LJ007-0149.wav|the jail, and the scaffold.
+data/ljspeech_filter/wavs/LJ007-0169.wav|this picture of the existing state of Newgate
+data/ljspeech_filter/wavs/LJ007-0171.wav|distinguished as the seat of religion, worth, and philanthropy,
+data/ljspeech_filter/wavs/LJ007-0188.wav|the misemployment of officers and prisoners by the governor.
+data/ljspeech_filter/wavs/LJ007-0191.wav|has been productive of at least some advantage,
+data/ljspeech_filter/wavs/LJ007-0193.wav|The measures of improvement introduced were mainly as follows:
+data/ljspeech_filter/wavs/LJ007-0196.wav|the provision of dining-rooms and dining-tables.
+data/ljspeech_filter/wavs/LJ007-0203.wav|"The mischief of jail associations," say the inspectors,
+data/ljspeech_filter/wavs/LJ007-0208.wav|In the inspectors' fourth report, dated 1839,
+data/ljspeech_filter/wavs/LJ007-0213.wav|Again the following year the inspectors repeat their charge.
+data/ljspeech_filter/wavs/LJ007-0217.wav|They go on to say
+data/ljspeech_filter/wavs/LJ007-0228.wav|In their tenth report
+data/ljspeech_filter/wavs/LJ007-0230.wav|Newgate, Giltspur St. Compter, and the City Bridewell,
+data/ljspeech_filter/wavs/LJ008-0009.wav|But the Old Bailey was not exclusively used;
+data/ljspeech_filter/wavs/LJ008-0013.wav|As regards the first, I find that in 1786
+data/ljspeech_filter/wavs/LJ008-0022.wav|On the 18th December, 1812,
+data/ljspeech_filter/wavs/LJ008-0024.wav|of the trading vessel 'Adventure,' upon the high seas.
+data/ljspeech_filter/wavs/LJ008-0033.wav|Ten were executed
+data/ljspeech_filter/wavs/LJ008-0062.wav|and this floor is supported below,
+data/ljspeech_filter/wavs/LJ008-0069.wav|The latter is the method still followed at Newgate.
+data/ljspeech_filter/wavs/LJ008-0073.wav|One case is preserved by Catnach,
+data/ljspeech_filter/wavs/LJ008-0104.wav|Here's the identical rope at sixpence an inch.
+data/ljspeech_filter/wavs/LJ008-0108.wav|The ordinary "gravely uttered, 'Come this way, Mr. Smith.'
+data/ljspeech_filter/wavs/LJ008-0110.wav|The prisoners had not risen.
+data/ljspeech_filter/wavs/LJ008-0112.wav|He was death's counterfeit, tall, shriveled, and pale;
+data/ljspeech_filter/wavs/LJ008-0114.wav|His hands were clasped, and he was truly penitent.
+data/ljspeech_filter/wavs/LJ008-0123.wav|"Sir," he answered, "they sent me the very riff-raff."
+data/ljspeech_filter/wavs/LJ008-0127.wav|As we were crossing the press yard,
+data/ljspeech_filter/wavs/LJ008-0131.wav|the other he kept between his hands.
+data/ljspeech_filter/wavs/LJ008-0137.wav|He bowed his head under extreme pressure of ignominy,
+data/ljspeech_filter/wavs/LJ008-0148.wav|One night he was missing
+data/ljspeech_filter/wavs/LJ008-0150.wav|Four years passed without the detection of the murderers,
+data/ljspeech_filter/wavs/LJ008-0152.wav|made a full confession, and implicated Holloway and Haggerty.
+data/ljspeech_filter/wavs/LJ008-0159.wav|Very soon women began to scream with terror;
+data/ljspeech_filter/wavs/LJ008-0161.wav|presently fell, and were at once trampled to death.
+data/ljspeech_filter/wavs/LJ008-0167.wav|No one who fell ever rose again.
+data/ljspeech_filter/wavs/LJ008-0186.wav|The concourse was very great, notwithstanding these warnings.
+data/ljspeech_filter/wavs/LJ008-0197.wav|of the Lamb's Coffee House;
+data/ljspeech_filter/wavs/LJ008-0198.wav|£2 was a common price for a window.
+data/ljspeech_filter/wavs/LJ008-0218.wav|They were mainly members of the criminal classes.
+data/ljspeech_filter/wavs/LJ008-0220.wav|hoary-headed and hardened in guilt, were still at large.
+data/ljspeech_filter/wavs/LJ008-0224.wav|With them were younger men and women:
+data/ljspeech_filter/wavs/LJ008-0226.wav|the latter unsexed and brutalized by dissipation,
+data/ljspeech_filter/wavs/LJ008-0230.wav|fell with a strange unnatural sound upon the ear
+data/ljspeech_filter/wavs/LJ008-0271.wav|This was more particularly the practice in London.
+data/ljspeech_filter/wavs/LJ008-0287.wav|to make those sanctions an object of contemptuous mockery.
+data/ljspeech_filter/wavs/LJ008-0288.wav|The consequences were plainly proved to the inspectors.
+data/ljspeech_filter/wavs/LJ008-0291.wav|The time thus spent varied considerably,
+data/ljspeech_filter/wavs/LJ008-0294.wav|nearly indefinitely deferred.
+data/ljspeech_filter/wavs/LJ008-0298.wav|Sometimes the report was delayed.
+data/ljspeech_filter/wavs/LJ008-0308.wav|The Recorder's report generally reached Newgate late at night.
+data/ljspeech_filter/wavs/LJ009-0010.wav|and thought every one anxious to promote his death.
+data/ljspeech_filter/wavs/LJ009-0025.wav|As to the exclusion of strangers on these occasions,
+data/ljspeech_filter/wavs/LJ009-0027.wav|will thereby be lost.
+data/ljspeech_filter/wavs/LJ009-0034.wav|The sheriffs were in one gallery;
+data/ljspeech_filter/wavs/LJ009-0044.wav|His features have no felonious cast;
+data/ljspeech_filter/wavs/LJ009-0047.wav|The next convict is clearly and unmistakably a villain.
+data/ljspeech_filter/wavs/LJ009-0049.wav|For this offense the punishment is death.
+data/ljspeech_filter/wavs/LJ009-0054.wav|He is quite content to die;
+data/ljspeech_filter/wavs/LJ009-0057.wav|Already he is half dead.
+data/ljspeech_filter/wavs/LJ009-0058.wav|Great efforts have been made to save his life.
+data/ljspeech_filter/wavs/LJ009-0062.wav|buries his head under his body.
+data/ljspeech_filter/wavs/LJ009-0071.wav|The burglar is heard to mutter an angry oath.
+data/ljspeech_filter/wavs/LJ009-0073.wav|The forger has never moved.
+data/ljspeech_filter/wavs/LJ009-0074.wav|Let us pass on.
+data/ljspeech_filter/wavs/LJ009-0076.wav|We come to the sermon.
+data/ljspeech_filter/wavs/LJ009-0086.wav|But why should I repeat the whole?
+data/ljspeech_filter/wavs/LJ009-0088.wav|ignominy, sorrow, sufferings, wretchedness, pangs,
+data/ljspeech_filter/wavs/LJ009-0090.wav|The dying men are dreadfully agitated.
+data/ljspeech_filter/wavs/LJ009-0096.wav|The poor sheep-stealer is in a frenzy.
+data/ljspeech_filter/wavs/LJ009-0126.wav|Hardly any one.
+data/ljspeech_filter/wavs/LJ009-0132.wav|Although this misapplication of religious services still went on,
+data/ljspeech_filter/wavs/LJ009-0144.wav|In fact his looks denoted extreme sorrow and contrition,
+data/ljspeech_filter/wavs/LJ009-0154.wav|Mr. Charles Kean the tragedian was also present,
+data/ljspeech_filter/wavs/LJ009-0164.wav|sheep or horse stealing, and stealing in a dwelling-house.
+data/ljspeech_filter/wavs/LJ009-0168.wav|robbery, burglary, and arson.
+data/ljspeech_filter/wavs/LJ009-0170.wav|to fifty-six in 1839.
+data/ljspeech_filter/wavs/LJ009-0205.wav|Then came the newly-formed horse patrol, with drawn cutlasses,
+data/ljspeech_filter/wavs/LJ009-0207.wav|extended at full length on an inclined platform
+data/ljspeech_filter/wavs/LJ009-0219.wav|A clause was inserted to the effect that
+data/ljspeech_filter/wavs/LJ009-0231.wav|Although these objectionable practices had disappeared,
+data/ljspeech_filter/wavs/LJ009-0242.wav|and the sentence was properly and completely carried out.
+data/ljspeech_filter/wavs/LJ009-0243.wav|Other cases might be quoted,
+data/ljspeech_filter/wavs/LJ009-0256.wav|Still he resisted.
+data/ljspeech_filter/wavs/LJ009-0260.wav|The spectacle was horrible;
+data/ljspeech_filter/wavs/LJ009-0262.wav|The crowd vociferously yelled their disapproval, and at length
+data/ljspeech_filter/wavs/LJ009-0265.wav|Even now his sufferings were not at an end,
+data/ljspeech_filter/wavs/LJ009-0267.wav|When Luigi Buranelli was executed in 1855,
+data/ljspeech_filter/wavs/LJ009-0273.wav|two supporting his body and two his legs.
+data/ljspeech_filter/wavs/LJ009-0294.wav|One was Askern,
+data/ljspeech_filter/wavs/LJ009-0296.wav|It was not always easy to hire a hangman.
+data/ljspeech_filter/wavs/LJ009-0301.wav|who deserted, and was pursued, but without success.
+data/ljspeech_filter/wavs/LJ009-0303.wav|Then came the cost of the gallows,
+data/ljspeech_filter/wavs/LJ010-0007.wav|Police protection was better and more effective;
+data/ljspeech_filter/wavs/LJ010-0019.wav|As time passed,
+data/ljspeech_filter/wavs/LJ010-0021.wav|The credulity of investors, the unscrupulous dishonesty of bankers,
+data/ljspeech_filter/wavs/LJ010-0035.wav|Courvoisier might have lived a century earlier.
+data/ljspeech_filter/wavs/LJ010-0042.wav|A not altogether new crime, however, akin to murder,
+data/ljspeech_filter/wavs/LJ010-0044.wav|The present Queen very soon after her accession
+data/ljspeech_filter/wavs/LJ010-0051.wav|The well-known Cato Street conspiracy,
+data/ljspeech_filter/wavs/LJ010-0072.wav|Returning to England,
+data/ljspeech_filter/wavs/LJ010-0074.wav|After this he tried farming, but failed.
+data/ljspeech_filter/wavs/LJ010-0081.wav|One of the conspirators, by name Edwards,
+data/ljspeech_filter/wavs/LJ010-0094.wav|bound, as it happened, to the Archbishop of York's.
+data/ljspeech_filter/wavs/LJ010-0101.wav|the lights were extinguished, and a desperate conflict ensued.
+data/ljspeech_filter/wavs/LJ010-0107.wav|and a military sash.
+data/ljspeech_filter/wavs/LJ010-0118.wav|were not altogether creditable to the Government.
+data/ljspeech_filter/wavs/LJ010-0128.wav|they with Brunt and Tidd scorned the ordinary's ministrations,
+data/ljspeech_filter/wavs/LJ010-0131.wav|Come, old cock-of-wax, it will soon be over.
+data/ljspeech_filter/wavs/LJ010-0141.wav|he was generally supposed to be a surgeon.
+data/ljspeech_filter/wavs/LJ010-0144.wav|but is only an ordinary commonplace tool.
+data/ljspeech_filter/wavs/LJ010-0149.wav|She was seized before she could do any mischief,
+data/ljspeech_filter/wavs/LJ010-0161.wav|two years after she ascended the throne.
+data/ljspeech_filter/wavs/LJ010-0169.wav|sometimes in the Strand, or the West End.
+data/ljspeech_filter/wavs/LJ010-0182.wav|the Duchess of Kent.
+data/ljspeech_filter/wavs/LJ010-0188.wav|Oxford expressed little anxiety or concern.
+data/ljspeech_filter/wavs/LJ010-0192.wav|or of the fatal consequences which might have ensued.
+data/ljspeech_filter/wavs/LJ010-0193.wav|When brought to trial he hardly realized his position,
+data/ljspeech_filter/wavs/LJ010-0213.wav|all of which declared their approval of the commander-in-chief.
+data/ljspeech_filter/wavs/LJ010-0250.wav|of the criminal intent to kill.
+data/ljspeech_filter/wavs/LJ010-0251.wav|Francis was sentenced to be hanged, decapitated, and quartered,
+data/ljspeech_filter/wavs/LJ010-0255.wav|This was in May 1842.
+data/ljspeech_filter/wavs/LJ010-0256.wav|Undeterred by the well-merited punishment which had overtaken Francis,
+data/ljspeech_filter/wavs/LJ010-0262.wav|charged him with the offense.
+data/ljspeech_filter/wavs/LJ010-0264.wav|Later on, however, Dasset was himself seized and interrogated,
+data/ljspeech_filter/wavs/LJ010-0266.wav|and a long, sickly, pale face, with light hair;
+data/ljspeech_filter/wavs/LJ010-0283.wav|and walking for choice through prickly gorse bushes.
+data/ljspeech_filter/wavs/LJ010-0286.wav|nine shillings, all in shillings, and no other coin.
+data/ljspeech_filter/wavs/LJ010-0288.wav|deemed valid as any palliation of his offense.
+data/ljspeech_filter/wavs/LJ010-0297.wav|But there were other notorious cases of forgery.
+data/ljspeech_filter/wavs/LJ010-0298.wav|That of Fauntleroy the banker, in 1824,
+data/ljspeech_filter/wavs/LJ010-0301.wav|He had entered the house as clerk in 1800;
+data/ljspeech_filter/wavs/LJ011-0008.wav|whereupon he produced exchequer bills to the amount.
+data/ljspeech_filter/wavs/LJ011-0016.wav|His countenance had an expression of most subdued resignation.
+data/ljspeech_filter/wavs/LJ011-0021.wav|Further investigations brought other similar frauds to light,
+data/ljspeech_filter/wavs/LJ011-0024.wav|Meanwhile public gossip was busy with Fauntleroy's name,
+data/ljspeech_filter/wavs/LJ011-0028.wav|In his defense
+data/ljspeech_filter/wavs/LJ011-0030.wav|was substantially true
+data/ljspeech_filter/wavs/LJ011-0036.wav|but the result in both cases was unfavorable.
+data/ljspeech_filter/wavs/LJ011-0044.wav|will no longer be herded indiscriminately together.
+data/ljspeech_filter/wavs/LJ011-0047.wav|This was on the text,
+data/ljspeech_filter/wavs/LJ011-0055.wav|Edmund Angelini, to take Fauntleroy's place.
+data/ljspeech_filter/wavs/LJ011-0056.wav|Angelini wrote to the Lord Mayor to this effect,
+data/ljspeech_filter/wavs/LJ011-0059.wav|There were doubts of his sanity.
+data/ljspeech_filter/wavs/LJ011-0097.wav|that of Dickson and Co.
+data/ljspeech_filter/wavs/LJ011-0107.wav|On entering Newgate he said,
+data/ljspeech_filter/wavs/LJ011-0109.wav|my heart has undergone that horrible penalty.
+data/ljspeech_filter/wavs/LJ011-0129.wav|Maynard was the only one who suffered death.
+data/ljspeech_filter/wavs/LJ011-0132.wav|except the forgery of wills and powers of attorney.
+data/ljspeech_filter/wavs/LJ011-0150.wav|Miss Turner was a school-girl of barely fifteen,
+data/ljspeech_filter/wavs/LJ011-0152.wav|The elder brother,
+data/ljspeech_filter/wavs/LJ011-0155.wav|He had eloped with his first wife from school.
+data/ljspeech_filter/wavs/LJ011-0171.wav|was the state of her father's affairs.
+data/ljspeech_filter/wavs/LJ011-0186.wav|by the blacksmith in the usual way.
+data/ljspeech_filter/wavs/LJ011-0202.wav|The uncle claimed her. The husband resisted.
+data/ljspeech_filter/wavs/LJ011-0208.wav|On this Wakefield gave in.
+data/ljspeech_filter/wavs/LJ011-0213.wav|married the said Ellen Turner.
+data/ljspeech_filter/wavs/LJ011-0217.wav|Mr. Justice Bayley, in summing up,
+data/ljspeech_filter/wavs/LJ011-0233.wav|that thieves or depredators were idle or entirely unsuccessful.
+data/ljspeech_filter/wavs/LJ011-0234.wav|Bigger "jobs" than ever were planned and attempted,
+data/ljspeech_filter/wavs/LJ011-0254.wav|A life and death struggle ensued. Mullay cried "Murder!"
+data/ljspeech_filter/wavs/LJ011-0263.wav|It was perpetrated upon a respectable country solicitor,
+data/ljspeech_filter/wavs/LJ011-0266.wav|The money went after her to her children.
+data/ljspeech_filter/wavs/LJ011-0269.wav|An appointment was made and kept by Mr. Gee,
+data/ljspeech_filter/wavs/LJ011-0280.wav|Mr. Gee at first stoutly refused.
+data/ljspeech_filter/wavs/LJ012-0011.wav|which Mrs. Canning had lost by remarriage.
+data/ljspeech_filter/wavs/LJ012-0014.wav|Edwards was sentenced to two years' imprisonment in Newgate,
+data/ljspeech_filter/wavs/LJ012-0033.wav|Jewels were re-set,
+data/ljspeech_filter/wavs/LJ012-0114.wav|but their request, in spite of their earnest entreaties,
+data/ljspeech_filter/wavs/LJ012-0120.wav|one of them of considerable size.
+data/ljspeech_filter/wavs/LJ012-0138.wav|They also ascertained that a gold-refiner,
+data/ljspeech_filter/wavs/LJ012-0141.wav|Moss presently turned approver,
+data/ljspeech_filter/wavs/LJ012-0154.wav|He was ostensibly a publican,
+data/ljspeech_filter/wavs/LJ012-0159.wav|He did not thrive on prison fare,
+data/ljspeech_filter/wavs/LJ012-0194.wav|But Burke and Hare had their imitators further south,
+data/ljspeech_filter/wavs/LJ012-0199.wav|After a little
+data/ljspeech_filter/wavs/LJ012-0203.wav|Eventually the law overtook them, but almost by accident.
+data/ljspeech_filter/wavs/LJ012-0216.wav|Williams, and May had been concerned in the transaction.
+data/ljspeech_filter/wavs/LJ012-0222.wav|plainly pointing to the perpetration of other crimes.
+data/ljspeech_filter/wavs/LJ012-0223.wav|These facts were represented before the police magistrate
+data/ljspeech_filter/wavs/LJ012-0228.wav|The evidence from first to last was circumstantial,
+data/ljspeech_filter/wavs/LJ012-0231.wav|although it included statements that were improbable and unsubstantiated.
+data/ljspeech_filter/wavs/LJ012-0243.wav|There were many features of resemblance in these crimes.
+data/ljspeech_filter/wavs/LJ012-0250.wav|On the 7th July, 1837,
+data/ljspeech_filter/wavs/LJ012-0259.wav|who had been missing since the previous Christmas Day.
+data/ljspeech_filter/wavs/LJ012-0261.wav|This brought suspicion on to a certain James Greenacre,
+data/ljspeech_filter/wavs/LJ012-0280.wav|or of Gardelle's frantic efforts to conceal his crime.
+data/ljspeech_filter/wavs/LJ012-0282.wav|This, wrapped up in a silk handkerchief,
+data/ljspeech_filter/wavs/LJ012-0294.wav|without hesitation brought in a verdict of willful murder.
+data/ljspeech_filter/wavs/LJ013-0002.wav|As the century advanced crimes of fraud increased.
+data/ljspeech_filter/wavs/LJ013-0008.wav|came to light in this same year, 1841.
+data/ljspeech_filter/wavs/LJ013-0013.wav|with other underwriters for a second sum of £2000.
+data/ljspeech_filter/wavs/LJ013-0023.wav|that he got a chance of accomplishing his crime.
+data/ljspeech_filter/wavs/LJ013-0031.wav|The crime soon became public.
+data/ljspeech_filter/wavs/LJ013-0045.wav|Wallace's relations warned him against his Liverpool friend,
+data/ljspeech_filter/wavs/LJ013-0050.wav|But among the charges on the estate he left
+data/ljspeech_filter/wavs/LJ013-0059.wav|There were two separate affairs.
+data/ljspeech_filter/wavs/LJ013-0060.wav|In the first a maiden lady, Miss Slack,
+data/ljspeech_filter/wavs/LJ013-0062.wav|to draw the dividends on more than one sum.
+data/ljspeech_filter/wavs/LJ013-0064.wav|Barber, it was said, became aware of this,
+data/ljspeech_filter/wavs/LJ013-0081.wav|Banks and bankers continued to be victimized.
+data/ljspeech_filter/wavs/LJ013-0095.wav|Burgess' continued absence was soon noticed at the bank.
+data/ljspeech_filter/wavs/LJ013-0097.wav|as soon as that gentleman was referred to.
+data/ljspeech_filter/wavs/LJ013-0099.wav|A smart detective, Forrester, after a little inquiry,
+data/ljspeech_filter/wavs/LJ013-0101.wav|Forrester next traced the fugitives to Liverpool,
+data/ljspeech_filter/wavs/LJ013-0106.wav|The inn belonging to Burgess was surrounded
+data/ljspeech_filter/wavs/LJ013-0120.wav|whom he had shown over the plate closet.
+data/ljspeech_filter/wavs/LJ013-0124.wav|who belonged to five good London clubs --
+data/ljspeech_filter/wavs/LJ013-0148.wav|four thousand pounds
+data/ljspeech_filter/wavs/LJ013-0154.wav|and the murderers immured within its walls.
+data/ljspeech_filter/wavs/LJ013-0172.wav|were found in the butler's pantry, used by Courvoisier.
