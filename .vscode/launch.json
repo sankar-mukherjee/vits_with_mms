@@ -38,7 +38,7 @@
             "justMyCode": false,
             "args":[
                 "-c=configs/finetune.json",
-                "-m=finetuned_libritts_1898",
+                "-m=finetuned_ljspeech",
               ]
         },
     ]

@@ -26,5 +26,7 @@ RUN cd monotonic_align
 RUN python setup.py build_ext --inplace
 RUN cd ..
 
+RUN apt install ffmpeg
+
 ENV NVIDIA_VISIBLE_DEVICES all
 ENV NVIDIA_DRIVER_CAPABILITIES compute,utility
