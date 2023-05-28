@@ -29,5 +29,17 @@
                 "--txt=আমি যামিনী তুমি শশী হে, ভাতিছ গগন মাঝে।। মম সরসীতে তব উজল প্রভা বিম্বিত যেন লাজে।।",
               ]
         },
+        {
+            "name": "finetune",
+            "type": "python",
+            "request": "launch",
+            "program": "finetune.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args":[
+                "-c=configs/finetune.json",
+                "-m=finetuned_libritts_1898",
+              ]
+        },
     ]
 }

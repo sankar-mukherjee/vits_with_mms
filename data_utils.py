@@ -9,7 +9,8 @@ import commons
 from mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence, cleaned_text_to_sequence
-
+import torchaudio
+import torchaudio.transforms as transforms
 
 class TextAudioLoader(torch.utils.data.Dataset):
     """
@@ -33,6 +34,17 @@ class TextAudioLoader(torch.utils.data.Dataset):
         self.min_text_len = getattr(hparams, "min_text_len", 1)
         self.max_text_len = getattr(hparams, "max_text_len", 190)
 
+        self.resampler = transforms.Resample(orig_freq=24000, new_freq=self.sampling_rate)
+        # Create a Spectrogram transform
+        self.spectrogram_transform = transforms.Spectrogram(
+            n_fft=self.filter_length,              # Size of the FFT window
+            hop_length=self.hop_length,         # Number of samples between consecutive frames
+            win_length=self.win_length,         # Size of the STFT window
+            window_fn=torch.hann_window,  # Type of window function
+            center=False,            # Whether to pad the waveform on both sides
+            pad_mode='reflect',     # Padding method
+            power=2.0               # Power exponent for the magnitude spectrogram
+        )
         random.seed(1234)
         random.shuffle(self.audiopaths_and_text)
         self._filter()
@@ -65,17 +77,19 @@ class TextAudioLoader(torch.utils.data.Dataset):
     def get_audio(self, filename):
         audio, sampling_rate = load_wav_to_torch(filename)
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
+            audio = self.resampler(audio)
+            # raise ValueError("{} {} SR doesn't match target {} SR".format(
+            #     sampling_rate, self.sampling_rate))
         audio_norm = audio / self.max_wav_value
         audio_norm = audio_norm.unsqueeze(0)
         spec_filename = filename.replace(".wav", ".spec.pt")
         if os.path.exists(spec_filename):
             spec = torch.load(spec_filename)
         else:
-            spec = spectrogram_torch(audio_norm, self.filter_length,
-                self.sampling_rate, self.hop_length, self.win_length,
-                center=False)
+            # spec = spectrogram_torch(audio_norm, self.filter_length,
+            #     self.sampling_rate, self.hop_length, self.win_length,
+            #     center=False)
+            spec = self.spectrogram_transform(audio_norm)
             spec = torch.squeeze(spec, 0)
             torch.save(spec, spec_filename)
         return spec, audio_norm

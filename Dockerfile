@@ -14,8 +14,8 @@
 
 FROM nvcr.io/nvidia/pytorch:22.08-py3
 
-ENV PYTHONPATH /workspace/vallex
-WORKDIR /workspace/vallex
+ENV PYTHONPATH /workspace/vits_mms
+WORKDIR /workspace/vits_mms
 
 ADD requirements.txt .
 RUN pip install -r requirements.txt

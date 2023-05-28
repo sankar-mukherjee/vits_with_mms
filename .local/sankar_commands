@@ -1,5 +1,14 @@
 
-wget https://dl.fbaipublicfiles.com/mms/tts/ben.tar.gz 
-tar –xvzf ben.tar.gz
+wget https://dl.fbaipublicfiles.com/mms/tts/eng.tar.gz 
+tar -xvzf ben.tar.gz
 
 python infer.py --model-dir pretrained_models/hin --wav output/hindi.wav --txt "ऐसी कोई फ़ाइल या निर्देशिका नहीं: यदि आप रनटाइम को पुनरारंभ करते हैं"
+
+
+# finetune with one libritts speaker
+# 1898 | F | train-clean-100  | 25.01 | Jennifer
+
+python preprocess.py --text_index 1 --filelists data/1898/filelist.txt
+python train.py -c configs/finetune.json -m ljs_base
+
+
